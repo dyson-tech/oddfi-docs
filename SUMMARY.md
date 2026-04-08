@@ -3,6 +3,7 @@
 * [OddFi 是什么](README.md)
 * [快速开始](getting-started.md)
 * [世界杯玩法](world-cup.md)
+* [赔率机制](odds-mechanism.md)
 * [充值与提现](deposit.md)
 * [添加流动性（做市）](liquidity.md)
 * [ODD 质押](staking.md)
