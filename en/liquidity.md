@@ -18,7 +18,16 @@ Provide ODD to the Betting Pool and become the platform's counterparty liquidity
 
 Yield distributed by "your deposit / total pool size" ratio.
 
-> **Target annualized yield ≈ 40%–80% APY**, varying with platform volume, user hit-rate, and your lock-up multiplier. Not a guarantee.
+### Yield Math
+
+Platform modeling shows that **every $1,000 of user deposits contributes roughly $200 to the Betting Pool** (~20% retention rate — high efficiency for the category).
+
+| Flow | Share | Per $1,000 user deposit |
+|---|---:|---:|
+| LP distribution (80%) | 80% | ≈ $160 |
+| Platform yield (20%) | 20% | ≈ $40 |
+
+> **Target annualized yield ≈ 80%–150% APY**, corresponding to annual deposit volume of 5×–9× the LP pool size. Actual returns vary with platform volume, hit-rate, and your lock-up multiplier. Not a guarantee.
 
 ### Risk Control Module
 
