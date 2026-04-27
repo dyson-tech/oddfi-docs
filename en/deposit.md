@@ -21,20 +21,20 @@ All amounts shown in ODD + USD equivalent.
 
 ### Deposit
 
-OddFi assigns each user a unique **personal proxy wallet**. Send funds to this address — the platform identifies you by it, regardless of which wallet the funds came from.
+OddFi assigns each user a unique **smart account wallet**. Send funds to this address — the platform identifies you by it, regardless of which wallet the funds came from.
 
 Three deposit methods:
 
 | Method | Description |
 |---|---|
-| Direct transfer | Send ODD (BSC BEP-20) directly to your proxy wallet address |
-| Same-chain swap | Swap BNB or other BSC tokens to ODD on PancakeSwap, then send to proxy wallet |
+| Direct transfer | Send ODD (BSC BEP-20) directly to your smart account wallet address |
+| Same-chain swap | Swap BNB or other BSC tokens to ODD on PancakeSwap, then send to smart account wallet |
 | Cross-chain swap | Use Relay bridge to swap assets from other EVM chains into ODD |
 
 **Direct transfer steps:**
 
 1. Go to "Wallet" → "Deposit"
-2. Copy your personal proxy wallet address
+2. Copy your smart account wallet address
 3. Send ODD (BSC BEP-20) from your EOA wallet to that address
 4. Wait for 12 block confirmations (~36 seconds)
 5. Balance auto-credits
@@ -47,8 +47,7 @@ Three deposit methods:
 
 Go to "Asset Management" → "Withdraw":
 
-- **≤ $5,000**: auto-processed, instant on-chain settlement, no manual step
-- **> $5,000**: enters manual review, completed within 24 hours
+- Instant payout once the on-chain transaction confirms — no manual review
 
 You can withdraw to any valid EVM wallet address — not limited to the one you connected with. Once you receive ODD, you can swap to USDT or other tokens via the ODD/USDT pair on PancakeSwap.
 
