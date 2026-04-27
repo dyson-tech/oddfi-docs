@@ -1,3 +1,7 @@
+🌐 [English](../en/odds-mechanism.md) · **中文**
+
+---
+
 # 赔率机制
 
 ### 赔率怎么来的

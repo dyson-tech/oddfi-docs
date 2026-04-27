@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/getting-started.md)
+
+---
+
 # Getting Started
 
 ### Step 1: Connect Wallet

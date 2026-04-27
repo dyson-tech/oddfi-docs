@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/faq.md)
+
+---
+
 # FAQ
 
 ### Account & Connection

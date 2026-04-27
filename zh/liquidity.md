@@ -1,3 +1,7 @@
+🌐 [English](../en/liquidity.md) · **中文**
+
+---
+
 # 添加流动性（做市）
 
 向 Betting Pool 注入 ODD，成为平台的对手方流动性提供者。用户预测命中由 Betting Pool 支付，未命中归入 Betting Pool，做市用户按份额分享平台整体盈利。

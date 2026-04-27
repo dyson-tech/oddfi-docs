@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/deposit.md)
+
+---
+
 # Deposit & Withdrawal
 
 ### Portfolio (Asset Overview)

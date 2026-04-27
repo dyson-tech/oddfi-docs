@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/referral.md)
+
+---
+
 # Referral Rewards
 
 After connecting your wallet, you automatically get a unique referral link. Referral relationships are bound on-chain permanently — once bound, immutable.

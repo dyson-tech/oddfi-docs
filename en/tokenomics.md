@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/tokenomics.md)
+
+---
+
 # ODD Tokenomics
 
 ### Basic Info

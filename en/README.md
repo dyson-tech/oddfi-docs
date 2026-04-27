@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/README.md)
+
+---
+
 # Official Documentation
 
 ## Contents

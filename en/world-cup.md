@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/world-cup.md)
+
+---
+
 # World Cup Playbook
 
 ### Market Types

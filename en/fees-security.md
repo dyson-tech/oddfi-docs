@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/fees-security.md)
+
+---
+
 # Fees & Security
 
 ### Platform-Wide Fee Schedule

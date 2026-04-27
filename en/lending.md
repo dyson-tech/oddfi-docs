@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/lending.md)
+
+---
+
 # Position Lending
 
 Use a pending bet position as collateral to borrow funds for another bet. Useful when you have active positions but no spare capital.

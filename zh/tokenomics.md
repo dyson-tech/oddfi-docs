@@ -1,3 +1,7 @@
+🌐 [English](../en/tokenomics.md) · **中文**
+
+---
+
 # ODD 代币经济学
 
 ### 基础信息

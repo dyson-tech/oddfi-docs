@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/staking.md)
+
+---
+
 # ODD Staking
 
 Lock up ODD to share the platform's payout-tax dividend and unlock higher daily betting limits (VIP tiers).

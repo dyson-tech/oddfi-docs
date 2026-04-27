@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/odds-mechanism.md)
+
+---
+
 # Odds Mechanism
 
 ### How Odds Are Generated

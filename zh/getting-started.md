@@ -1,3 +1,7 @@
+🌐 [English](../en/getting-started.md) · **中文**
+
+---
+
 # 快速开始
 
 ### 第一步：连接钱包

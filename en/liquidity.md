@@ -1,3 +1,7 @@
+🌐 **English** · [中文](../zh/liquidity.md)
+
+---
+
 # Liquidity Provision (Market Making)
 
 Provide ODD to the Betting Pool and become the platform's counterparty liquidity. When users win, the Betting Pool pays out; when users lose, the funds enter the Pool. Liquidity providers share the platform's overall profit pro-rata.
