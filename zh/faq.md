@@ -1,4 +1,4 @@
-🌐 [English](../en/faq.md) · **中文**
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/faq) · **中文**
 
 ---
 

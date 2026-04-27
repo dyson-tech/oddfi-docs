@@ -1,4 +1,4 @@
-🌐 **English** · [中文](../zh/odds-mechanism.md)
+🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/odds-mechanism)
 
 ---
 

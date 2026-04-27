@@ -1,4 +1,4 @@
-🌐 [English](../en/lending.md) · **中文**
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/lending) · **中文**
 
 ---
 

@@ -1,4 +1,4 @@
-🌐 **English** · [中文](../zh/fees-security.md)
+🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/fees-security)
 
 ---
 

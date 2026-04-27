@@ -1,4 +1,4 @@
-🌐 [English](../en/staking.md) · **中文**
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/staking) · **中文**
 
 ---
 

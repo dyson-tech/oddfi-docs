@@ -1,4 +1,4 @@
-🌐 [English](../en/tokenomics.md) · **中文**
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/tokenomics) · **中文**
 
 ---
 
