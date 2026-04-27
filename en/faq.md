@@ -1,4 +1,4 @@
-🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/faq)
+🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/faq) · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/faq)
 
 ---
 

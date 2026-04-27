@@ -1,4 +1,4 @@
-🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/lending)
+🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/lending) · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/lending)
 
 ---
 

@@ -1,4 +1,4 @@
-🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/world-cup) · **中文**
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/world-cup) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/world-cup)
 
 ---
 
