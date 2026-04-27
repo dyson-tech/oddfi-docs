@@ -14,7 +14,7 @@ Provide ODD to the Betting Pool and become the platform's counterparty liquidity
 | Platform yield | Platform-wide Margin × 20% |
 | Safety buffer | Payout tax 1pp (L3 buffer) continuously injected into the Betting Pool's internal reserve; L4 buffer pool from the strategic reserve provides additional backstop, strengthening solvency |
 
-> After ODD's upgrade to Clean Token, the Betting Pool is no longer fed by a "sell profit tax 4pp". Capital safety relies on the initial 15M ODD lock-up principal + L3 buffer + L4 buffer pool.
+> Capital safety is backed by the initial 15M ODD lock-up principal + L3 tax buffer + L4 buffer pool.
 
 Yield distributed by "your deposit / total pool size" ratio.
 

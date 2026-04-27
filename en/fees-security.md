@@ -33,7 +33,7 @@
 | Price-manipulation defense | TWAP / oracle cross-validation guards against flash-loan attacks |
 | Balance verification | Frontend + contract dual balance check on all operations |
 
-> The v2.4 mechanisms — "1-minute trade cooldown / single-sell 10% cap / sell profit tax 25%" — are fully retired. ODD is now a Clean Token with unrestricted transfers. Price stability is now supported by three business-layer mechanisms: staggered release schedule, active strategic-reserve defense, and application-layer tax recirculation.
+> ODD is a Clean Token with no contract-layer transfer restrictions. Price stability is supported by three business-layer mechanisms: staggered release schedule, active strategic-reserve defense, and application-layer tax recirculation.
 
 ### Risk Disclosure
 
