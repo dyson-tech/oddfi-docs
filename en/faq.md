@@ -54,7 +54,7 @@
 | When do referral rewards arrive? | Not in real-time. Once 10+ ODD accumulates in BettingPool, click Claim — the contract live-swaps ODD to USDT and sends to your wallet. |
 | Do I need to stake to receive referral rewards? | No. Under the Clean Token model, referrers have no threshold. |
 | Is there a tax on buying/selling ODD? | No. ODD is a Clean Token — zero tax at the contract layer. All taxes are charged inside BettingPool on bets and payouts only. |
-| Will the 100M supply ever inflate or burn? | Neither. Zero inflation, zero burn — supply is fixed forever. |
+| Will the 100M supply ever inflate or burn? | No inflation. A burn mechanism will activate after the World Cup; specifics to be announced. |
 
 ### Supported Languages
 

@@ -27,7 +27,7 @@
 | Pausable | All three core contracts support emergency pause |
 | Claim slippage protection | ODD → USDT live swap defaults to 2% slippage cap, customizable (max 5%) |
 | Minimum claim threshold | 10 ODD — prevents gas costs eating small claims |
-| L3 tax buffer waterfall | Extreme payouts cascade through LP funds → platform vault → L3 buffer, preventing single-point pool blowout |
+| L3 + L4 buffer waterfall | Extreme payouts cascade through LP funds → platform vault → L3 buffer → L4 buffer pool — four layers preventing single-point pool blowout |
 | Third-party audit | Mandatory security audit before mainnet (CertiK / SlowMist / PeckShield) |
 | LP lock | DEX liquidity LP token permanently locked |
 | Price-manipulation defense | TWAP / oracle cross-validation guards against flash-loan attacks |

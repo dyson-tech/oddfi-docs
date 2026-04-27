@@ -52,6 +52,8 @@ USDT lands directly in your wallet
 | S5 | ≥ $1,000,000 | +0.20 |
 
 > Tier-spread model: upline only earns the differential, not the downline's full share. Bonus is paid from the ecosystem incentive pool, separate from the main Claim path.
+>
+> Team bets only count toward team cumulative volume and trigger rewards after the match has been settled.
 
 ### First-Deposit Reward
 

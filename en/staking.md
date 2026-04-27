@@ -13,8 +13,6 @@ Lock up ODD to share the platform's payout-tax dividend and unlock higher daily 
 | Payout tax 2pp | Auto-injected into the StakingPool reward pool with every winning payout |
 | Early-redemption forfeitures | 100% of unclaimed yield from early redemptions returns to the reward pool |
 
-> The v2.4-era "sell profit tax 10pp" and "invalid-referrer buy tax 5%" sources are fully retired — ODD is now a Clean Token with zero contract-layer tax.
-
 Yield is distributed pro-rata: `user staked × multiplier / Σ(all users' staked × multipliers)` (standard rewardPerShare model).
 
 ### Lock-up Periods & Reward Multipliers

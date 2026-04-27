@@ -13,7 +13,7 @@
 | Chain | BSC (BNB Smart Chain) |
 | Standard | BEP-20 (ERC-20 compatible) — **Clean Token** |
 | Total Supply | 100,000,000 (100M), minted once, no further issuance |
-| Inflation / Burn | Zero inflation, zero burn (fixed supply) |
+| Inflation / Burn | Zero inflation; burn mechanism activates after the World Cup |
 | Transfer Tax | Zero (no contract-layer buy/sell tax / referrer tax / cooldown / sell cap) |
 | Tax Layer | Application-layer two-tier tax (bet tax 1% + payout tax 5%, both charged in BettingPool) |
 | DEX Pair | ODD/USDT (PancakeSwap) |
@@ -137,7 +137,7 @@ Volume scales → tax absolute volume scales → staking APY rises further (loop
 ### Supply Constancy
 
 - **Zero inflation:** 100M fixed supply, no mint interface, no further issuance after TGE
-- **Zero burn:** No burn mechanism (v2.4's profit-tax burn is retired)
-- **Float management:** Effective circulation managed via staking lock-up + private sale linear release, not via burn
+- **Burn mechanism:** Activates after the World Cup (specific rules and cadence to be announced)
+- **Float management:** Effective circulation managed via staking lock-up + private sale linear release
 
 ---
