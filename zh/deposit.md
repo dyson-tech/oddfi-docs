@@ -1,4 +1,4 @@
-🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/deposit) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/deposit)
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/deposit) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/deposit) · [한국어](https://oddfi.gitbook.io/oddfi-docs-ko/deposit)
 
 ---
 

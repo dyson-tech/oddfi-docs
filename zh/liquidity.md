@@ -1,4 +1,4 @@
-🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/liquidity) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/liquidity)
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/liquidity) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/liquidity) · [한국어](https://oddfi.gitbook.io/oddfi-docs-ko/liquidity)
 
 ---
 

@@ -1,4 +1,4 @@
-🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/referral) · **中文**
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/referral) · **中文** · [한국어](https://oddfi.gitbook.io/oddfi-docs-ko/referral)
 
 ---
 

@@ -1,4 +1,4 @@
-🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/getting-started) · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/getting-started)
+🌐 **English** · [中文](https://oddfi.gitbook.io/oddfi-docs-zh/getting-started) · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/getting-started) · [한국어](https://oddfi.gitbook.io/oddfi-docs-ko/getting-started)
 
 ---
 
