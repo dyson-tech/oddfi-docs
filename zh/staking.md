@@ -1,4 +1,4 @@
-🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/staking) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/staking)
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/staking) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/staking) · [한국어](https://oddfi.gitbook.io/oddfi-docs-ko/staking)
 
 ---
 

@@ -1,4 +1,4 @@
-🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/tokenomics) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/tokenomics)
+🌐 [English](https://oddfi.gitbook.io/oddfi-docs-en/tokenomics) · **中文** · [日本語](https://oddfi.gitbook.io/oddfi-docs-ja/tokenomics) · [한국어](https://oddfi.gitbook.io/oddfi-docs-ko/tokenomics)
 
 ---
 
